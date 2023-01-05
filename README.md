@@ -5,6 +5,5 @@
 Hago el canelo por todas partes<br>
 Mi madre me dio la vida, MGS me dio las ganas de continuarla<br> 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alexabinarflame-126&cover_image=true&theme=natemoo-theme&show_offline=false&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=alexabinarflame-126&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=insonyy&color=blue)
