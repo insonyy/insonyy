@@ -11,8 +11,5 @@
          <a href="https://github.com/insonyy?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
          <a href="https://github.com/insonyy?tab=repositories&language=c%23" target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=CSharp&logoColor=white"></a>
 
-[![Inso's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=insonyy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 
 ![](https://komarev.com/ghpvc/?username=insonyy&color=blue)
