@@ -13,7 +13,7 @@
 Herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,powershell,linux,androidstudio,apollo,postman,mysql,mongo,hibernate,unity&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,docker,powershell,linux,androidstudio,apollo,postman,mysql,mongo,hibernate,spring,unity,idea,vim&perline=8" />
   </a>
 </p>
 
