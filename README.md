@@ -5,7 +5,9 @@
   💻 -- Programadora backend, puede que en un futuro me dedique a redes<br>
   🫡 -- Actualmente de prácticas, pero preparando un proyecto propio<br><br>
 
-Tecnologías que domino:
+  * * *
+
+### Tecnologías que domino:
 
 Herramientas:
 <p align="left">
@@ -13,7 +15,8 @@ Herramientas:
     <img src="https://skillicons.dev/icons?i=git,docker,powershell,linux,androidstudio,apollo,postman,mysql,mongo,hibernate,unity&perline=8" />
   </a>
 </p>
-<br>
+
+* * *
 
 Lenguajes:
 
@@ -22,6 +25,15 @@ Lenguajes:
     <img src="https://skillicons.dev/icons?i=java,python,kotlin,bash,cs&perline=8" />
   </a>
 </p>
-<br>
+
+* * *
+
+Idiomas que hablo:
+
+Español (Nativo)<br>
+Inglés (Avanzado)<br>
+Italiano (Básico-Intermedio)<br>
+
+* * *
 
 ![](https://komarev.com/ghpvc/?username=insonyy&color=blue)
