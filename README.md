@@ -5,6 +5,7 @@
   💻 -- Programadora (junior) backend, puede que en un futuro me dedique a redes<br>
   🫡 -- Actualmente de prácticas, pero preparando un proyecto propio<br>
   😼 -- Acabando el DAM, pensando en hacer el ASIR
+  📖 -- Actualmente aprendiendo : COBOL
 
   * * *
 
