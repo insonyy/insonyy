@@ -4,7 +4,7 @@
   🤸‍♀️ -- Hago el canelo por todas partes<br>
   💻 -- Programadora (junior) backend, puede que en un futuro me dedique a redes<br>
   🫡 -- Actualmente de prácticas, pero preparando un proyecto propio<br>
-  😼 -- Acabando el DAM, pensando en hacer el ASIR
+  😼 -- Acabando el DAM, pensando en hacer el ASIR<br>
   📖 -- Actualmente aprendiendo : COBOL
 
   * * *
