@@ -38,4 +38,4 @@ Italiano (Básico-Intermedio)<br>
 
 * * *
 
-![](https://komarev.com/ghpvc/?username=insonyy&color=blue) ![](https://www.codewars.com/users/insonyy/badges/micro)
+![](https://komarev.com/ghpvc/?username=insonyy&color=blue) ![](https://www.codewars.com/users/insonyy/badges/small)
