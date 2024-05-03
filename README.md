@@ -39,3 +39,13 @@ Italiano (Básico-Intermedio)<br>
 * * *
 
 ![](https://komarev.com/ghpvc/?username=insonyy&color=blue) ![](https://www.codewars.com/users/insonyy/badges/small)
+
+<details align = "center">
+<summary><h3 align="center">Stats</h2></summary>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insonyy&show_icons=true&theme=tokyonight"/>
+  <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=insonyy&theme=tokyonight">
+</p>
+<br>
+</details>
