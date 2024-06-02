@@ -2,7 +2,7 @@
 
 <img align='right' src=https://github.com/insonyy/insonyy/blob/56df13b338f8c02fbe32d9b7b059e17e4be344ab/tumblr_ma5f9esvJD1rvkdlio1_r3_250.gif width='15%'>
   🤸‍♀️ -- Hago el canelo por todas partes<br>
-  💻 -- Programadora (junior) backend, puede que en un futuro me dedique a redes<br>
+  💻 -- Programadora (junior) backend, puede que en un futuro sea game dev o forense informática<br>
   🫡 -- Actualmente de prácticas, pero preparando un proyecto propio<br>
   😼 -- Acabando el DAM, pensando en hacer el ASIR<br>
   📖 -- Actualmente aprendiendo : COBOL
