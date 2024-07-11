@@ -14,7 +14,7 @@
 Herramientas:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,powershell,linux,androidstudio,apollo,mongo,hibernate,spring,unity,idea,vim,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,docker,powershell,linux,androidstudio,apollo,mongo,hibernate,spring,unity,idea,vim,mysql,aws&perline=8" />
   </a>
 </p>
 
